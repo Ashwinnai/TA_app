@@ -3,6 +3,8 @@ import pandas as pd
 import pandas_ta as ta
 import plotly.graph_objects as go
 from io import BytesIO
+from numpy import NaN as npNaN
+
 
 # Streamlit application
 def main():
