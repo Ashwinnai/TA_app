@@ -1,7 +1,8 @@
 streamlit
 pandas
-pandas-ta
 plotly
 openpyxl
 xlsxwriter
-numpy
+numpy==1.24.3
+pandas-ta==0.3.14b0
+
